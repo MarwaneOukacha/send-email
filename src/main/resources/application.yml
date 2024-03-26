@@ -1,0 +1,17 @@
+mail:
+  protocol: smtp
+  properties:
+    mail:
+      smtp:
+        auth: true
+        starttls:
+          enable: true
+        
+  host: smtp.gmail.com
+  port: 587
+  username: marwaneoukacha2001@gmail.com
+  password: bbot vpnk hdzk nvaf
+
+
+server:
+  port: 1567
